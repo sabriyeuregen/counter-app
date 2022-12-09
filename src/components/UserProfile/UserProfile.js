@@ -1,10 +1,6 @@
-import "./UserProfile.scss"
+import "./UserProfile.scss";
 const UserProfile = () => {
-  return (
-    <div className="profile">
-      UserProfile
-      </div>
-  )
-}
+  return <div className="profile">UserProfile</div>;
+};
 
-export default UserProfile
+export default UserProfile;
